@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bie:home|Door43 (bie)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bie|d43-bie repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bie/archive/master.zip|d43-bie.zip]]
+
+**Recent Changes**
+{{changes>ns = bie}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bie|Ethnologue data]]
+
